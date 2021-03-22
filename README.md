@@ -24,4 +24,5 @@ I'm a big fan of Design Patterns, SOLID principles, PSR coding standards, DDD & 
  [![Linkedin Badge](https://img.shields.io/badge/-Iulian%20Popa-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iulyanpopa/ "Connect on LinkedIn")
  ![Skype Badge](https://img.shields.io/badge/-iulyanpopa-00aff0?style=flat&logo=Skype&logoColor=white)
 
- ![Languages](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=iulyanp&layout=compact&theme=dark)
+ ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iulyanp&layout=compact&theme=dark)
+ ![Statistics](https://github-readme-stats.vercel.app/api?username=iulyanp&hide=contribs&layout=compact&theme=dark)
