@@ -25,4 +25,4 @@ I'm a big fan of Design Patterns, SOLID principles, PSR coding standards, DDD & 
  ![Skype Badge](https://img.shields.io/badge/-iulyanpopa-00aff0?style=flat&logo=Skype&logoColor=white)
 
  ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iulyanp&layout=compact&theme=dark)
- ![Statistics](https://github-readme-stats.vercel.app/api?username=iulyanp&hide=contribs&layout=compact&theme=dark)
+ ![Statistics](https://github-readme-stats.vercel.app/api?username=iulyanp&hide=contribs,issues&layout=compact&theme=dark)
