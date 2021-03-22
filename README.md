@@ -23,3 +23,5 @@ I'm a big fan of Design Patterns, SOLID principles, PSR coding standards, DDD & 
 - 📫  How to reach me: [![Gmail Badge](https://img.shields.io/badge/-iulyanpopa@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:iulyanpopa@gmail.com "Connect via Email")
  [![Linkedin Badge](https://img.shields.io/badge/-Iulian%20Popa-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iulyanpopa/ "Connect on LinkedIn")
  ![Skype Badge](https://img.shields.io/badge/-iulyanpopa-00aff0?style=flat&logo=Skype&logoColor=white)
+
+ ![Languages](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=iulyanp&layout=compact&theme=dark)
