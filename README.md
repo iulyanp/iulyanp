@@ -10,7 +10,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
- ![Statistics](https://github-readme-stats.vercel.app/api?username=iulyanp&hide=contribs,issues&layout=compact&theme=dark)
  ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iulyanp&hide=html&layout=compact&theme=dark)
  
 I'm a **Software Developer** born in **Romania**🇷🇴 who is passionate about clean code 🧹, good practices 📖 and new technologies 💻 
