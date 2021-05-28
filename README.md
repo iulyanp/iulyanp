@@ -10,18 +10,28 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
- ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iulyanp&hide=html&layout=compact&theme=dark)
- 
+
 I'm a **Software Developer** born in **Romania**🇷🇴 who is passionate about clean code 🧹, good practices 📖 and new technologies 💻 
 
 I'm a big fan of Design Patterns, SOLID principles, PSR coding standards, DDD & EDA concepts and I really enjoy building scalable and maintainable applications.
 
+```bash
+$ iulianpopa --help
+
+Usage:  iulianpopa [OPTIONS]
+
+Options:
+  -a, --architectures   MVC, MVVM, Domain-Driven Design, CQRS, Event Driven Architecture
+  -c, --challenges      Learn everyday something new, develop clean code, build scalable application architecture
+  -t, --tools           Symfony, Laravel, Javascript, DDD, Docker, MySQL, MongoDB, ElasticSearch, PHRETS and more
+  -e, --experience      Over 10 years of professional experience
+  -P, --principles      PSR, SOLID, KISS, DRY, Design Patterns
+  -l, --learning        Currently learning serverless & microservices in depth
+  -v, --version         Latest
+```
+
 - 🔭  I’m currently working at [eMAG](https://www.emag.ro/)
-- 📚  I have over 10 years of professional experience
-- 🌱  I’m currently learning serverless & microservices in depth
-- ⚙️  I specialise in: PHP, JavaScript, Symfony, Laravel, Vue, PHRETS, Linux, Docker, MySQL, MongoDB and more...
 - 👯  I’m looking to collaborate on Laravel, Symfony, web development, DDD, Docker
-- 💬  Ask me about Symfony, Laravel, web development, DDD, Docker
 - 📫  How to reach me: [![Gmail Badge](https://img.shields.io/badge/-iulyanpopa@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:iulyanpopa@gmail.com "Connect via Email")
  [![Linkedin Badge](https://img.shields.io/badge/-Iulian%20Popa-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iulyanpopa/ "Connect on LinkedIn")
  ![Skype Badge](https://img.shields.io/badge/-iulyanpopa-00aff0?style=flat&logo=Skype&logoColor=white)
